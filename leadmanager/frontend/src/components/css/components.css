@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+body{
+    margin: 0;
+}
+.active{
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 10px;
+    height: 10px;
+    padding: 5px 14px;
+    background-color: #4dd877;
+    margin-right: 10px;
+
+}
+.finished{
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 10px;
+    height: 10px;
+    padding: 5px 14px;
+    background-color: #af243b;
+    margin-right: 10px;
+}

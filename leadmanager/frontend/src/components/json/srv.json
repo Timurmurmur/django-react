@@ -1,0 +1,14 @@
+{
+    "posts" : [
+        {
+            "name":"Do Homework",
+            "finished" : true,
+            "active" : false
+        },
+        {
+            "name": "Find Job",
+            "finished": false,
+            "active": true
+        }
+    ]
+}
